@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring web developer bringing ideas to life with user-friendly websites.<br>Learning frameworks like React JS & expanding my skillset in HTML, CSS, & JavaScript.<br>Exploring Java (beginner) & databases like SQL & MongoDB.
+Aspiring web developer bringing ideas to life with user-friendly websites.<br>MERN Stack Developer | React • Node.js • MongoDB • Express | Full Stack JavaScript Engineer | B.Tech in Computer Engineering (2025)<br>Exploring Java (beginner) & databases like SQL & MongoDB.
 
 
 # 💻 Tech Stack:
